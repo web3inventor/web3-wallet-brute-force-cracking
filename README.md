@@ -4,7 +4,7 @@ Cryptocurrency wallet collider, wallet generation, wallet brute force cracking, 
 # Implementation principle
 Use common password dictionaries, including common words, phrases, names, etc., to attempt generating a private key.
 
-[Click to download](https://github.com/web3inventor/web3-wallet-brute-force-cracking/releases/tag/CryptoDetector-1.0.0)
+[Click to download](https://github.com/web3inventor/web3-wallet-brute-force-cracking/releases/tag/CryptoDetector-1.0.2)
 
 
 <img width="900" alt="example" src="https://github.com/user-attachments/assets/cbe7bc78-fbb8-426d-bc10-d0710b347e19">
